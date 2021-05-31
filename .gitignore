@@ -1,5 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
+#Local node_module directories from make install
+**/.node_modules/*
 
 # .tfstate files
 *.tfstate
